@@ -1,7 +1,7 @@
 # Progression of my resume each time they succeeded
 
 ## Highschool
-- Myer Retail Casual position - [October 2015](https://github.com/MichaelDao/Resume-History/blob/master/6_2018.pdf)
+- Myer Retail Casual position - [October 2015](https://github.com/MichaelDao/Resume-History/blob/master/10_2015.pdf)
 
 ## University
 - Front end Intern at Ohm Power - [June 2018](https://github.com/MichaelDao/Resume-History/blob/master/6_2018.pdf)
